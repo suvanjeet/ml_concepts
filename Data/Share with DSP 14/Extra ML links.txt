@@ -1,0 +1,34 @@
+ML Map:
+http://scikit-learn.org/stable/tutorial/machine_learning_map/
+
+ML Algos guide:
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+https://machinelearningmastery.com/get-your-hands-dirty-with-scikit-learn-now/
+
+Linear Regression Practical tutorial:
+https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb
+
+Logistic Regression Practical Tutorial:
+http://nbviewer.jupyter.org/gist/justmarkham/6d5c061ca5aee67c4316471f8c2ae976
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
+KNN Practical Tutorial:
+http://dataaspirant.com/2016/12/30/k-nearest-neighbor-implementation-scikit-learn/
+
+SVM Practical Tutorial:
+https://sadanand-singh.github.io/posts/svmpython/
+
+Naive Bayes:
+http://dataaspirant.com/2017/02/20/gaussian-naive-bayes-classifier-implementation-python/
+http://blog.hackerearth.com/introduction-naive-bayes-algorithm-codes-python-r
+
+Decision Trees and Ensemble modelling:
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/#fourteen
+https://medium.com/@rnbrown/creating-and-visualizing-decision-trees-with-python-f8e8fa394176
+http://dataaspirant.com/2017/04/21/visualize-decision-tree-python-graphviz/
+
+Interview questions:
+https://www.springboard.com/blog/machine-learning-interview-questions/
+
+Good datasets:
+https://www.springboard.com/blog/free-public-data-sets-data-science-project/
